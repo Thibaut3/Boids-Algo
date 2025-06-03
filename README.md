@@ -115,4 +115,4 @@ SEPARATION_FORCE = 0.075
 
 ## Captures d'écran
 
-*(Insérez ici des captures d'écran ou un GIF de la simulation en action pour donner un aperçu visuel.)*
+![Simulation Boids 3D](boids_simulation.gif)
