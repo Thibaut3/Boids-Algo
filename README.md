@@ -116,21 +116,3 @@ SEPARATION_FORCE = 0.075
 ## Captures d'écran
 
 *(Insérez ici des captures d'écran ou un GIF de la simulation en action pour donner un aperçu visuel.)*
-
-## Contribution
-
-Les contributions sont les bienvenues \! Si vous souhaitez améliorer ce projet, n'hésitez pas à :
-
-1.  Faire un fork du dépôt.
-
-2.  Créer une nouvelle branche (`git checkout -b feature/AmazingFeature`).
-
-3.  Faire vos modifications (`git commit -m 'Add some AmazingFeature'`).
-
-4.  Pousser vers la branche (`git push origin feature/AmazingFeature`).
-
-5.  Ouvrir une Pull Request.
-
-## Licence
-
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
