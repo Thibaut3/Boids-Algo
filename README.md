@@ -18,10 +18,6 @@ Ce dépôt contient une simulation 3D de l'algorithme Boids, implémenté en Pyt
 
   * [Captures d'écran](https://www.google.com/search?q=%23captures-d%C3%A9cran)
 
-  * [Contribution](https://www.google.com/search?q=%23contribution)
-
-  * [Licence](https://www.google.com/search?q=%23licence)
-
 ## Description
 
 Ce projet vise à visualiser le comportement émergent d'un groupe d'agents (les "boids") dans un environnement 3D. Chaque boid suit un ensemble de règles locales pour interagir avec ses voisins, ce qui conduit à un comportement de groupe réaliste et complexe, tel que des bancs de poissons ou des vols d'oiseaux. La simulation est rendue en 3D à l'aide d'OpenGL, offrant une perspective immersive et interactive.
